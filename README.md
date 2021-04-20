@@ -2,6 +2,8 @@
 
 UAlberta Multimedia Program MM802 Course Project: Real-Time cow counting from video or image stack captured from a drone
 
+Codes of the project will be uploaded once this semester would be ended. 
+
 ## Get Started
 
 ### Package Installation with CocoaPods
