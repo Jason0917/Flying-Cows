@@ -1,7 +1,6 @@
 # Flying-Cows
 
-UAlberta Multimedia Program MM802 Course Project - Real-Time cow counting from video or image stack captured from a drone
-
+UAlberta Multimedia Program MM802 Course Project: Real-Time cow counting from video or image stack captured from a drone
 
 ## Get Started
 
@@ -63,3 +62,11 @@ The DJISDKAppKey is present in the Info.plist - you just need to add their uniqu
 You will still need to update the [Bundle Identifier](http://developer.dji.com/user/mobile-sdk/ios-configuration/) .
 
 One of DJI's aircraft or handheld cameras will be required to run this application.  
+
+
+## What this app can do?
+
+1. Image transmission via HTTP POST using Base64 encoding.
+2. Receive HTTP Response and decode the imageData back to UIImage for display.
+3. Create waypoint missions for the drone.
+4. View basic information of the drone.
